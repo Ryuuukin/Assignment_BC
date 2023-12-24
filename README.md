@@ -1,4 +1,4 @@
-This is a simple representation of Blockchain Technology Functionality with fundamental concepts, like: 
+||This is a simple representation of Blockchain Technology Functionality with fundamental concepts, like: ||
 Asymmetric Encryption, Digital Signature, Hashing, Blockchain Core Features (adding blocks, adding transactions, implementation of a Merkle Tree)
 
 [Main.java]
