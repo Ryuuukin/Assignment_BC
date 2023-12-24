@@ -46,3 +46,4 @@ BLOCK
   
 Note: Utilizes SHA-256 for hash calculation.
 
+link to the presentation: https://www.canva.com/design/DAF35CRLaZg/vZGochdQWesGbO37_qbeQg/edit?utm_content=DAF35CRLaZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
