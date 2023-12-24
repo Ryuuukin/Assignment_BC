@@ -5,10 +5,15 @@ Asymmetric Encryption, Digital Signature, Hashing, Blockchain Core Features (add
 The main menu-driven class that allows users to interact with the blockchain.
 Options include:
 > performing transactions
+
 > viewing the blockchain
+
 > showing the Merkle root
+
 > mining a new block
+
 > generating key pairs
+
 > exiting the application.
 
 [AsymmetricEncryption.java]
@@ -24,8 +29,11 @@ Manages key generation, conversion between key formats and Base64 encoding/decod
 Defines the blockchain structure, containing a list of blocks.
 Implements methods: 
 > adding blocks
+
 > creating a Merkle tree
+
 > calculating the Merkle root
+
 > mining new blocks.
 
 [Block.java]
